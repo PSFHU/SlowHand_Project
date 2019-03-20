@@ -1,11 +1,11 @@
-#Témák
+# Témák
  - Feladat elemzése
  - Használandó program rendszerek megvitatása
     (pl: Valószínűség számítás lapok alapján...)
  - Github rendszer használatának ismertetése
     (pl: Hogy kell commit-elni, Hogy kell leszedni a legfrisebb verziót...)
 
-#Feladat elemzése
+# Feladat elemzése
  - Póker játék folyamatának elemzése
  - Felmerülhető adatípusok leírása
  - Adatszerkezet felépítése, játékban megismert adatok alapján
